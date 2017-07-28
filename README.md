@@ -1,2 +1,5 @@
 # hello-world
-my first app
+Hi,
+My name is Fahad.
+This is my first app using Github.
+Reg
